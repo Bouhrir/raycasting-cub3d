@@ -1,6 +1,6 @@
 # raycasting-cub3d
 
-## macOS users:
+## macOS users 💻:
 
 ```
 git clone https://github.com/Bouhrir/raycasting-cub3d.git ~/Desktop/ray-cub
