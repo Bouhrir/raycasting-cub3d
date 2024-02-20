@@ -1,6 +1,6 @@
 # raycasting-cub3d
 
-##macOS users:
+## macOS users:
 ```
 open index.html
 ```
